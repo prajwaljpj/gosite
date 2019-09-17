@@ -7,4 +7,4 @@
 ## deploy
 
 some documentation
-prajwal and this is my name
+Prajwal And This Is My Name
